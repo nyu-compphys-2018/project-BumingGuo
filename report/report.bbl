@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{2017arXiv170804993M}
+S.~{Martiniani}, P.~M. {Chaikin}, and D.~{Levine}.
+\newblock {Quantifying hidden order out of equilibrium}.
+\newblock {\em ArXiv e-prints}, August 2017.
+
+\bibitem{zonghanlin}
+Zonghan Lin.
+\newblock {\em Thermodynamics and Statistical Physics}.
+\newblock Peking University Press, 2007.
+
+\bibitem{PhysRevE.87.042134}
+Michael Engel, Joshua~A. Anderson, Sharon~C. Glotzer, Masaharu Isobe,
+  Etienne~P. Bernard, and Werner Krauth.
+\newblock Hard-disk equation of state: First-order liquid-hexatic transition in
+  two dimensions with three simulation methods.
+\newblock {\em Phys. Rev. E}, 87:042134, Apr 2013.
+
+\bibitem{ANDERSON201327}
+Joshua~A. Anderson, Eric Jankowski, Thomas~L. Grubb, Michael Engel, and
+  Sharon~C. Glotzer.
+\newblock Massively parallel monte carlo for many-particle simulations on gpus.
+\newblock {\em Journal of Computational Physics}, 254:27 -- 38, 2013.
+
+\bibitem{PhysRevLett.107.155704}
+Etienne~P. Bernard and Werner Krauth.
+\newblock Two-step melting in two dimensions: First-order liquid-hexatic
+  transition.
+\newblock {\em Phys. Rev. Lett.}, 107:155704, Oct 2011.
+
+\bibitem{PhysRevE.93.012906}
+Stefano Martiniani, K.~Julian Schrenk, Jacob~D. Stevenson, David~J. Wales, and
+  Daan Frenkel.
+\newblock Turning intractable counting into sampling: Computing the
+  configurational entropy of three-dimensional jammed packings.
+\newblock {\em Phys. Rev. E}, 93:012906, Jan 2016.
+
+\bibitem{frenkel2001understanding}
+Daan Frenkel and Berend Smit.
+\newblock {\em Understanding molecular simulation: from algorithms to
+  applications}, volume~1.
+\newblock Elsevier, 2001.
+
+\bibitem{Cover:2006:EIT:1146355}
+Thomas~M. Cover and Joy~A. Thomas.
+\newblock {\em Elements of Information Theory (Wiley Series in
+  Telecommunications and Signal Processing)}.
+\newblock Wiley-Interscience, New York, NY, USA, 2006.
+
+\end{thebibliography}
